@@ -1,0 +1,13 @@
+.card {
+  display: flex;
+  width: 350px;
+  height: 100px;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  margin: 20px auto;
+  border-radius: 15px;
+}
+img {
+  width: 4rem;
+}
